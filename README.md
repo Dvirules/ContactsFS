@@ -1,0 +1,2 @@
+The assignment as described by you.
+For your convenience, I wrote two run scripts - one for the frontend and one for the backend. Please make sure to run the backend beforehand, so that the frontend will pull the data it requires from the backend when it is loaded.
